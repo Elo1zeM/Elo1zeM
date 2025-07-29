@@ -41,3 +41,21 @@
   />
 
 </p>
+
+<div 
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elo1zeM&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Elo1zeM&theme=midnight-blue&card_width=885"
+  />
+  </div>
